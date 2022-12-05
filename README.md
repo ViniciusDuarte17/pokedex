@@ -36,9 +36,23 @@ INTEGRANTES:
 ### Responsividade
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/61671015/165351130-75ee1f02-d272-483f-aa5b-cbf57dc120c2.png)
 
-# O que não funciona: 
-###  Página de batlha pokemon
-❌ Não foram implementadas as funções e componentes para ocorrer as batalhas
+### Instruções para rodar aplicação localmente
+ 
+ Clone o projeto
+
+```bash
+git clone https://github.com/ViniciusDuarte17/Desafio_shopper.git
+```
+Instale as dependências
+
+```bash
+npm install
+```
+Rodar aplicação localmente
+
+```bash
+npm run dev 
+```
 
 # Tecnologias utilizadas
 
