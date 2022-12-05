@@ -41,7 +41,7 @@ INTEGRANTES:
  Clone o projeto
 
 ```bash
-git clone https://github.com/ViniciusDuarte17/Desafio_shopper.git
+git clone https://github.com/ViniciusDuarte17/pokedex.git
 ```
 Instale as dependências
 
